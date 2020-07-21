@@ -7,32 +7,32 @@
       },
       {
          "title":"Etape 2: Création du modèle de données",
-         "body":"<br>Suivez les instructions pour créer le modèle de données vous même dans votre org.<br>Pour ce faire, utilisons <b>Object Manager</b>.<br><br>Ensuite, vous pourrez finaliser le modèle en poussant la métadonée définie <a href=\"https://github.com/cverhaest/sfdx-travelApprovalAPPv3-EN/tree/step1/force-app/main/default\" target=\"_blank\">ici</a>.",
+         "body":"<br>Suivez les instructions pour créer le modèle de données vous même dans votre org.<br>Pour ce faire, utilisons <b>Object Manager</b>.<br><br>Ensuite, vous pourrez finaliser le modèle en poussant la métadonée définie <a href=\"https://github.com/cverhaest/sfdx-travelApprovalAPPv4-EN/tree/step1/force-app/main/default\" target=\"_blank\">ici</a>.",
          "button":"Finaliser le modèle de donnée"
       },
       {
          "title":"Etape 3: Création de l'application",
-         "body":"<br>Vous avez pu tester l'utilisation de l'objet \"Demande de Voyage\"! Hourra!<br>Et si on créait une application dédiée de gestion des \"Demandes de Voyage\"...<br>Pour ce faire, utilisons l'<b>App Manager</b>.<br>Au travail!<br><br>Métadonnée définie <a href=\"https://github.com/cverhaest/sfdx-travelApprovalAPPv3-EN/tree/step2/force-app/main/default\" target=\"_blank\">ici</a>.",
+         "body":"<br>Vous avez pu tester l'utilisation de l'objet \"Demande de Voyage\"! Hourra!<br>Et si on créait une application dédiée de gestion des \"Demandes de Voyage\"...<br>Pour ce faire, utilisons l'<b>App Manager</b>.<br>Au travail!<br><br>Métadonnée définie <a href=\"https://github.com/cverhaest/sfdx-travelApprovalAPPv4-EN/tree/step2/force-app/main/default\" target=\"_blank\">ici</a>.",
          "button":"Créer l'application"
       },
       {
          "title":"Etape 4: Processus Automatisés",
-         "body":"<br>Nous allons maintenant automatiser certaines actions!<br>Pour ce faire, utilisons le <b>Lightning Process Builder</b> et <b>Approval Process</b>.<br><br>Métadonnée définie <a href=\"https://github.com/cverhaest/sfdx-travelApprovalAPPv3-EN/tree/step3/force-app/main/default\" target=\"_blank\">ici</a>.",
+         "body":"<br>Nous allons maintenant automatiser certaines actions!<br>Pour ce faire, utilisons le <b>Lightning Process Builder</b> et <b>Approval Process</b>.<br><br>Métadonnée définie <a href=\"https://github.com/cverhaest/sfdx-travelApprovalAPPv4-EN/tree/step3/force-app/main/default\" target=\"_blank\">ici</a>.",
          "button":"Créer le processus automatisé"
       },
       {
          "title":"Etape 5: Processus Visuel Automatisé",
-         "body":"<br>Utilisons maintenant <b>Flow Builder</b> pour simplifier la saisie d'une nouvelle \"Demande de Voyage\".<br><br>Métadonnée définie <a href=\"https://github.com/cverhaest/sfdx-travelApprovalAPPv3-EN/tree/step4/force-app/main/default\" target=\"_blank\">ici</a>.",
+         "body":"<br>Utilisons maintenant <b>Flow Builder</b> pour simplifier la saisie d'une nouvelle \"Demande de Voyage\".<br><br>Métadonnée définie <a href=\"https://github.com/cverhaest/sfdx-travelApprovalAPPv4-EN/tree/step4/force-app/main/default\" target=\"_blank\">ici</a>.",
          "button":"Créer le processus visuel"
       },
       {
          "title":"Etape 6: Rapports & Tableau de bord",
-         "body":"<br>Nous allons maintenant utiliser l'<b>éditeur de rapport et tableau de bord</b> afin de visualiser les données.<br><br>Métadonnée définie <a href=\"https://github.com/cverhaest/sfdx-travelApprovalAPPv3-EN/tree/step5/force-app/main/default\" target=\"_blank\">ici</a>.",
+         "body":"<br>Nous allons maintenant utiliser l'<b>éditeur de rapport et tableau de bord</b> afin de visualiser les données.<br><br>Métadonnée définie <a href=\"https://github.com/cverhaest/sfdx-travelApprovalAPPv4-EN/tree/step5/force-app/main/default\" target=\"_blank\">ici</a>.",
          "button":"Créer les rapports et le tableau de bord"
       },
       {
          "title":"Etape 7: Développement sur la plateforme",
-         "body":"<br>Et maintenant, après tout ce travail déclaratif, je sens que vous mourrez d'envie de voir un peu de code :).<br>Nous allons créer un premier <b>Lightning Web Component</b>.<br><br>Métadonnée définie <a href=\"https://github.com/cverhaest/sfdx-travelApprovalAPPv3-EN/tree/step6/force-app/main/default\" target=\"_blank\">ici</a>.",
+         "body":"<br>Et maintenant, après tout ce travail déclaratif, je sens que vous mourrez d'envie de voir un peu de code :).<br>Nous allons créer un premier <b>Lightning Web Component</b>.<br><br>Métadonnée définie <a href=\"https://github.com/cverhaest/sfdx-travelApprovalAPPv4-EN/tree/step6/force-app/main/default\" target=\"_blank\">ici</a>.",
          "button":"Pousser le code"
       }                             
    ]

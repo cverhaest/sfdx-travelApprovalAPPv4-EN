@@ -7,32 +7,32 @@
        },
        {
           "title":"Step 2: Data model creation",
-          "body":"<br>Follow the instructions to create the data model yourself in your org.<br>To do this, use <b>Object Manager</b>.<br><br>Then you can finalize the data model by pushing the metadata defined <a href=\"https://github.com/cverhaest/sfdx-travelApprovalAPPv3-EN/tree/step1/force-app/main/default\" target=\"_blank\">here</a>.<br>",
+          "body":"<br>Follow the instructions to create the data model yourself in your org.<br>To do this, use <b>Object Manager</b>.<br><br>Then you can finalize the data model by pushing the metadata defined <a href=\"https://github.com/cverhaest/sfdx-travelApprovalAPPv4-EN/tree/step1/force-app/main/default\" target=\"_blank\">here</a>.<br>",
           "button":"Finalize the data model"
        },
        {
           "title":"Step 3: App creation",
-          "body":"<br>You were able to test the use of the object \"Travel Approval\"! Hurray!<br>And what about creating a dedicated application to manage travel approval requests...<br>To do that, let's use the <b>App Manager</b>.<br><br>Metadata defined <a href=\"https://github.com/cverhaest/sfdx-travelApprovalAPPv3-EN/tree/step2/force-app/main/default\" target=\"_blank\">ici</a>.",
+          "body":"<br>You were able to test the use of the object \"Travel Approval\"! Hurray!<br>And what about creating a dedicated application to manage travel approval requests...<br>To do that, let's use the <b>App Manager</b>.<br><br>Metadata defined <a href=\"https://github.com/cverhaest/sfdx-travelApprovalAPPv4-EN/tree/step2/force-app/main/default\" target=\"_blank\">ici</a>.",
           "button":"Create the App"
        },
        {
           "title":"Step 4: Process automation",
-          "body":"<br>We will now automate some actions!<br>To do this, use the <b>Lightning Process Builder</b> and <b>Approval Process</b>.<br><br>Metadata defined <a href=\"https://github.com/cverhaest/sfdx-travelApprovalAPPv3-EN/tree/step3/force-app/main/default\" target=\"_blank\">here</a>.",
+          "body":"<br>We will now automate some actions!<br>To do this, use the <b>Lightning Process Builder</b> and <b>Approval Process</b>.<br><br>Metadata defined <a href=\"https://github.com/cverhaest/sfdx-travelApprovalAPPv4-EN/tree/step3/force-app/main/default\" target=\"_blank\">here</a>.",
           "button":"Automated process creation"
        },
        {
           "title":"Step 5: Visual process automation",
-          "body":"<br>We will now use <b>Flow Builder</b> to simplify the entry of a new \"Travel Approval\".<br><br>Metadata defined <a href=\"https://github.com/cverhaest/sfdx-travelApprovalAPPv3-EN/tree/step4/force-app/main/default\" target=\"_blank\">here</a>.",
+          "body":"<br>We will now use <b>Flow Builder</b> to simplify the entry of a new \"Travel Approval\".<br><br>Metadata defined <a href=\"https://github.com/cverhaest/sfdx-travelApprovalAPPv4-EN/tree/step4/force-app/main/default\" target=\"_blank\">here</a>.",
           "button":"Visual process creation"
        },
        {
           "title":"Step 6: Reports & Dashboard",
-          "body":"<br>We will now use <b>Reports and Dashboard builder</b> to visualize the data.<br><br> Metadata defined <a href=\"https://github.com/cverhaest/sfdx-travelApprovalAPPv3-EN/tree/step5/force-app/main/default\" target=\"_blank\">here</a>.",
+          "body":"<br>We will now use <b>Reports and Dashboard builder</b> to visualize the data.<br><br> Metadata defined <a href=\"https://github.com/cverhaest/sfdx-travelApprovalAPPv4-EN/tree/step5/force-app/main/default\" target=\"_blank\">here</a>.",
           "button":"Reports & Dashboard creation"
        },
        {
           "title":"Step 7: Development on the Platform",
-          "body":"<br>And now, after all this declarative work, I feel that you're dying to see some code :).<br>We'll create a first <b>Lightning Web Component (LWC)</b>.<br><br>Metadata defined <a href=\"https://github.com/cverhaest/sfdx-travelApprovalAPPv3-EN/tree/step6/force-app/main/default\" target=\"_blank\">here</a>.",
+          "body":"<br>And now, after all this declarative work, I feel that you're dying to see some code :).<br>We'll create a first <b>Lightning Web Component (LWC)</b>.<br><br>Metadata defined <a href=\"https://github.com/cverhaest/sfdx-travelApprovalAPPv4-EN/tree/step6/force-app/main/default\" target=\"_blank\">here</a>.",
           "button":"Push the code"
        }                             
     ]
