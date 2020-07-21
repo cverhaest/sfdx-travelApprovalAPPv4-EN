@@ -1,0 +1,19 @@
+{
+    "orgName": "SalesforceTA",
+    "edition": "Developer",
+    "country":"US",
+    "features":"Communities",
+    "language":"en_US",
+	"settings": {
+        "orgPreferenceSettings": {
+            "s1DesktopEnabled": true,
+            "translation": true
+        },
+        "pathAssistantSettings":{
+            "pathAssistantEnabled": true
+        },
+        "chatterSettings": {
+            "enableChatter": true
+        }        
+    }  	
+}
