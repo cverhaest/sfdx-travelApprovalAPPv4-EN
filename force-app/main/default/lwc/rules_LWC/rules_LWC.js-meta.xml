@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightningComponentBundle xmlns="http://soap.sforce.com/2006/04/metadata" fqn="rules_LWC">
+    <apiVersion>45.0</apiVersion>
+    <isExposed>true</isExposed>
+    <masterLabel>Generic Rules Lightning Web Component (LWC)</masterLabel>
+    <description>This is a "Generic Rules Component" LWC demo component.</description>  
+    <targets>
+        <!-- Configure a Component for Lightning App Builder -->
+        <!-- https://developer.salesforce.com/docs/component-library/documentation/lwc/lwc.use_config_for_app_builder -->  
+        <target>lightning__RecordPage</target>
+    </targets>
+    <targetConfigs>
+        <targetConfig targets="lightning__RecordPage">
+            <property name="ruleType" type="String" label="Rule type" default="Travel-Approval" description="What is the rule type?"></property>
+            <!-- Configure Your Component for Different Form Factors -->
+            <!-- https://developer.salesforce.com/docs/component-library/documentation/lwc/lwc.use_config_form_factors -->
+            <supportedFormFactors>
+                <supportedFormFactor type="Small" />
+                <supportedFormFactor type="Large" />
+              </supportedFormFactors>
+        </targetConfig>
+    </targetConfigs>    
+</LightningComponentBundle>
