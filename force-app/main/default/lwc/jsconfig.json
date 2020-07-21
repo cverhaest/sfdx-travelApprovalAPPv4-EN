@@ -1,0 +1,26 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "baseUrl": ".",
+        "paths": {
+            "c/rules_LWC": [
+                "rules_LWC/rules_LWC.js"
+            ],
+            "c/travelApprovalFileUpload_LWC": [
+                "travelApprovalFileUpload_LWC/travelApprovalFileUpload_LWC.js"
+            ],
+            "c/travelApprovalPath_LWC": [
+                "travelApprovalPath_LWC/travelApprovalPath_LWC.js"
+            ]
+        }
+    },
+    "include": [
+        "**/*",
+        "../../../../.sfdx/typings/lwc/**/*.d.ts"
+    ],
+    "typeAcquisition": {
+        "include": [
+            "jest"
+        ]
+    }
+}

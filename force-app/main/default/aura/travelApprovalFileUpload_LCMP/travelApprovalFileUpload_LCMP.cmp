@@ -1,0 +1,36 @@
+<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction" access="global" >
+    <aura:attribute name="recordId" type="Id"/>
+    <aura:attribute name="fileId" type="Id"/> 
+    
+    <article class="slds-card">
+        <div class="slds-card__header slds-grid">
+            <header class="slds-media slds-media_center slds-has-flexi-truncate">
+                <div class="slds-media__figure">
+                    <span class="slds-icon_container slds-icon-standard-file" title="Add Expense Receipt">
+                        <lightning:icon iconName="standard:file" size="small" alternativeText="Add Expense Receipt"/>
+                    </span>
+                </div>
+                <div class="slds-media__body">
+                    <h2>
+                        <span class="slds-text-heading_small">{!$Label.c.TA_Expense_Receipt}</span>
+                    </h2>
+                </div>
+            </header>
+        </div>
+        <div class="slds-card__body" align="center">
+            <table border="0" style="width:75%">
+                <tr><td>
+                    <lightning:fileUpload label="{!$Label.c.TA_Upload_Expense_Receipt}" 
+                                          multiple="true" 
+                                          accept=".pdf, .png, .docx, .xlsx"
+                                          recordId="{!v.recordId}" 
+                                          aura:id="singleUpload"
+                                          onuploadfinished="{!c.handleSingleUploadFinished}" />
+                </td></tr>
+                <tr><td>
+                    <lightning:fileCard fileId="{!v.fileId}"/>
+                    </td></tr>
+            </table>    
+        </div>
+    </article>    
+</aura:component>

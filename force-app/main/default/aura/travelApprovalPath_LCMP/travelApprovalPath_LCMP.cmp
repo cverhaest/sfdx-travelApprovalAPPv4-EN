@@ -1,0 +1,44 @@
+<aura:component implements="lightning:availableForFlowScreens,flexipage:availableForAllPageTypes,forcecommunity:availableForAllPageTypes" access="global" >
+
+<!--Spring'18 add:  implements lightning:availableForFlowScreens and in defaulttokens.tokens extends forceCommunity:base-->
+<!--<aura:component implements="flexipage:availableForAllPageTypes,forcecommunity:availableForAllPageTypes,lightning:availableForFlowScreens" access="global" >-->
+
+    <aura:attribute name="step" type="String" Default="3"/>
+    <aura:attribute name="steps" type="String[]" Default="['General Information','Cost','Approval']"/>
+    <!--Attributes used as input or output should be in design for Spring'18-->
+    <div class="slds-path">
+        <div class="slds-grid slds-path__track">
+            <div class="slds-grid slds-path__scroller-container">
+                <div class="slds-path__scroller" role="application">
+                    <div class="slds-path__scroller_inner">
+                        <ul class="slds-path__nav" role="listbox" aria-orientation="horizontal">
+                            <aura:iteration items="{!v.steps}" var="s" indexVar="i">
+                                <li class="{!'slds-path__item' + if(i>v.step,' slds-is-incomplete','') + if(and(!lessthan(i,v.step),!greaterthan(i,v.step)),' slds-is-active slds-is-current','') + if(lessthan(i,v.step),' slds-is-complete','')}" role="presentation">
+                                    <!--'slds-path__item' +  + (i lt v.step)?'slds-is-complete':'' + (i gt v.step)?'slds-is-incomplete':''-->
+                                    <a aria-selected="false" class="slds-path__link" href="javascript:void(0);" id="{!'path-'+i}" role="option" tabindex="-1">
+                                        <span class="slds-path__stage">
+                                            <lightning:icon iconName="utility:check" variant="inverse" size="x-small"/>
+                                        </span>
+                                        <span class="slds-path__title">{!s}</span>
+                                    </a>
+                                </li>
+                            </aura:iteration>
+                            
+                        </ul>
+                        <div class="slds-path__scroll-controls">
+                            <button class="slds-button slds-button_icon slds-button_icon-border-filled" title="Scroll left" tabindex="-1">
+                                <lightning:icon iconName="utility:left" variant="inverse" />
+                                <span class="slds-assistive-text">Scroll left</span>
+                            </button>
+                            <button class="slds-button slds-button_icon slds-button_icon-border-filled" title="Scroll right" tabindex="-1">
+                                <lightning:icon iconName="utility:right" variant="inverse" />
+                                <span class="slds-assistive-text">Scroll right</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</aura:component>

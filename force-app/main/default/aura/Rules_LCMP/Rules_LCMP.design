@@ -1,0 +1,3 @@
+<design:component label="Generic Time Line Component">
+    <design:attribute name="ruleType" label="Rule type" default="Travel-Approval" description="What is the rule type?" />
+</design:component>

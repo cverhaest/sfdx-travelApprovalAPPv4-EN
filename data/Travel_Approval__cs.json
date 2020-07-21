@@ -1,0 +1,124 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Travel_Approval__c",
+                "referenceId": "Travel_Approval__cRef1"
+            },
+            "Approval_Status__c": "New",
+            "Description__c": "Meeting with Customer 1",
+            "Travel_Cost__c": 140,
+            "Travel_Date__c": "2020-10-10",
+            "Travel_Destination__c": "Paris",
+            "Travel_Reason__c": "Customer Meeting"
+        },
+        {
+            "attributes": {
+                "type": "Travel_Approval__c",
+                "referenceId": "Travel_Approval__cRef2"
+            },
+            "Approval_Status__c": "New",
+            "Description__c": "Meeting with Customer 2",
+            "Travel_Cost__c": 350,
+            "Travel_Date__c": "2019-11-23",
+            "Travel_Destination__c": "Lille",
+            "Travel_Reason__c": "Customer Meeting"
+        },
+        {
+            "attributes": {
+                "type": "Travel_Approval__c",
+                "referenceId": "Travel_Approval__cRef3"
+            },
+            "Approval_Status__c": "Pending",
+            "Description__c": "Meeting with Customer 3",
+            "Travel_Cost__c": 700,
+            "Travel_Date__c": "2020-02-04",
+            "Travel_Destination__c": "Toulouse",
+            "Travel_Reason__c": "Customer Meeting"
+        },
+        {
+            "attributes": {
+                "type": "Travel_Approval__c",
+                "referenceId": "Travel_Approval__cRef4"
+            },
+            "Approval_Status__c": "Approved",
+            "Description__c": "Meeting with Customer 4",
+            "Travel_Cost__c": 450,
+            "Travel_Date__c": "2020-01-03",
+            "Travel_Destination__c": "Lyon",
+            "Travel_Reason__c": "Customer Meeting"
+        },
+        {
+            "attributes": {
+                "type": "Travel_Approval__c",
+                "referenceId": "Travel_Approval__cRef5"
+            },
+            "Approval_Status__c": "Rejected",
+            "Description__c": "Meeting with Customer 5",
+            "Travel_Cost__c": 200,
+            "Travel_Date__c": "2019-11-09",
+            "Travel_Destination__c": "Le Plessis-Robinson",
+            "Travel_Reason__c": "Customer Meeting"
+        },
+        {
+            "attributes": {
+                "type": "Travel_Approval__c",
+                "referenceId": "Travel_Approval__cRef6"
+            },
+            "Approval_Status__c": "New",
+            "Description__c": "Meeting with Partner 1",
+            "Travel_Cost__c": 100,
+            "Travel_Date__c": "2020-01-12",
+            "Travel_Destination__c": "Le Plessis-Robinson",
+            "Travel_Reason__c": "Partner Meeting"
+        },
+        {
+            "attributes": {
+                "type": "Travel_Approval__c",
+                "referenceId": "Travel_Approval__cRef7"
+            },
+            "Approval_Status__c": "Approved",
+            "Description__c": "Meeting with Partner 2",
+            "Travel_Cost__c": 75,
+            "Travel_Date__c": "2019-12-20",
+            "Travel_Destination__c": "Paris",
+            "Travel_Reason__c": "Partner Meeting"
+        },
+        {
+            "attributes": {
+                "type": "Travel_Approval__c",
+                "referenceId": "Travel_Approval__cRef8"
+            },
+            "Approval_Status__c": "Approved",
+            "Description__c": "Meeting with Partner 3",
+            "Travel_Cost__c": 90,
+            "Travel_Date__c": "2019-12-10",
+            "Travel_Destination__c": "Creteil",
+            "Travel_Reason__c": "Partner Meeting"
+        },
+        {
+            "attributes": {
+                "type": "Travel_Approval__c",
+                "referenceId": "Travel_Approval__cRef9"
+            },
+            "Approval_Status__c": "Pending",
+            "Description__c": "Dreamforce 2018",
+            "Travel_Cost__c": 4500,
+            "Travel_Date__c": "2019-11-01",
+            "Travel_Destination__c": "San Franciso",
+            "Travel_Reason__c": "Internal Meeting"
+        },
+        {
+            "attributes": {
+                "type": "Travel_Approval__c",
+                "referenceId": "Travel_Approval__cRef10"
+            },
+            "Approval_Status__c": "New",
+            "Description__c": "Dreamforce 2019",
+            "Travel_Cost__c": 5500,
+            "Travel_Date__c": "2020-10-01",
+            "Travel_Destination__c": "San Francisco",
+            "Travel_Reason__c": "Internal Meeting"
+        }
+    ]
+}

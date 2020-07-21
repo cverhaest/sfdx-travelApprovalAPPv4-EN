@@ -1,0 +1,2424 @@
+[
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1548175642262,
+            "changeTime": 1570607577762,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1570607577655,
+            "changeTime": 1570607577655,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 992,
+            "modifiedTime": 1590503085127,
+            "changeTime": 1590503085127,
+            "contentHash": "6ffafd28b4eadf881dae8a85130a046dfa9604d8"
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/applications",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/applications",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1571151753122,
+            "changeTime": 1571151753122,
+            "contentHash": "289fd72dda1471487c3a34c02e2d7a65e8b8f5fc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/applications/Travel_Approval_Light.app-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/applications/Travel_Approval_Light.app-meta.xml",
+            "isDirectory": false,
+            "size": 845,
+            "modifiedTime": 1571152131217,
+            "changeTime": 1571152131217,
+            "contentHash": "20e4d092b3da241f9ec03d5b24db5cfe6e6157a4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/approvalProcesses",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/approvalProcesses",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1548768988852,
+            "changeTime": 1570607577673,
+            "contentHash": "fc99872d6fb6e4997e1393ef846395ce81c9b754",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/approvalProcesses/Travel_Approval__c.Travel_Approval_Approval_Process.approvalProcess-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/approvalProcesses/Travel_Approval__c.Travel_Approval_Approval_Process.approvalProcess-meta.xml",
+            "isDirectory": false,
+            "size": 2111,
+            "modifiedTime": 1548768988852,
+            "changeTime": 1571146976341,
+            "contentHash": "e47e707ec06193ccc7413ce0d7f5a7d5bc4a2f23",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1570607577725,
+            "changeTime": 1570607577725,
+            "contentHash": "1fe991feced495bc3dd587aa2d16e814b6fd4669",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura/Rules_LCMP",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura/Rules_LCMP",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1546547867499,
+            "changeTime": 1570607577725,
+            "contentHash": "e4ddc491cffa2a230b5a1c5f5203d71cca372d11",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura/Rules_LCMP/Rules_LCMP.cmp",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura/Rules_LCMP/Rules_LCMP.cmp",
+            "isDirectory": false,
+            "size": 2859,
+            "modifiedTime": 1520265209000,
+            "changeTime": 1570607577722,
+            "contentHash": "99cc8874e7faff76fd15c392ec2a64be0805ec40",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura/Rules_LCMP/Rules_LCMP.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura/Rules_LCMP/Rules_LCMP.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1520265209000,
+            "changeTime": 1570607577723,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura/Rules_LCMP/Rules_LCMP.design",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura/Rules_LCMP/Rules_LCMP.design",
+            "isDirectory": false,
+            "size": 196,
+            "modifiedTime": 1520265209000,
+            "changeTime": 1570607577725,
+            "contentHash": "f30855812766b674ffd889c777b1470a13942491",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura/Rules_LCMP/Rules_LCMPController.js",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura/Rules_LCMP/Rules_LCMPController.js",
+            "isDirectory": false,
+            "size": 169,
+            "modifiedTime": 1520265209000,
+            "changeTime": 1570607577724,
+            "contentHash": "8fb521c13e710e31ef575049b8bc25361988ccb0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura/Rules_LCMP/Rules_LCMPHelper.js",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura/Rules_LCMP/Rules_LCMPHelper.js",
+            "isDirectory": false,
+            "size": 760,
+            "modifiedTime": 1520265209000,
+            "changeTime": 1570607577723,
+            "contentHash": "db9781842757a23f758288c0a97f7c45384061d2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura/defaultTokens",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura/defaultTokens",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1546548527280,
+            "changeTime": 1570607577721,
+            "contentHash": "9c13df0e131455c056bf7320226e1f7b5dfc93ce",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura/defaultTokens/defaultTokens.tokens",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura/defaultTokens/defaultTokens.tokens",
+            "isDirectory": false,
+            "size": 52,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1570607577721,
+            "contentHash": "40ba81de6b80214579a9e2aae94e7328739e7373",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura/defaultTokens/defaultTokens.tokens-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura/defaultTokens/defaultTokens.tokens-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1570607577720,
+            "contentHash": "75041aee2f523c3acab5fe00ac6457c7721c6c64",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura/travelApprovalFileUpload_LCMP",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura/travelApprovalFileUpload_LCMP",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1546548527051,
+            "changeTime": 1570607577719,
+            "contentHash": "844b7a75280635012e61f69f48743eb05aa26d58",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura/travelApprovalFileUpload_LCMP/travelApprovalFileUpload_LCMP.cmp",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura/travelApprovalFileUpload_LCMP/travelApprovalFileUpload_LCMP.cmp",
+            "isDirectory": false,
+            "size": 1867,
+            "modifiedTime": 1548782751190,
+            "changeTime": 1570607577718,
+            "contentHash": "b3e8e428dfcaf836a080b083b529cf4ec5942862",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura/travelApprovalFileUpload_LCMP/travelApprovalFileUpload_LCMP.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura/travelApprovalFileUpload_LCMP/travelApprovalFileUpload_LCMP.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1570607577718,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura/travelApprovalFileUpload_LCMP/travelApprovalFileUpload_LCMPController.js",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura/travelApprovalFileUpload_LCMP/travelApprovalFileUpload_LCMPController.js",
+            "isDirectory": false,
+            "size": 796,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1570607577719,
+            "contentHash": "dc53cd323d4fdb57a6cf47d467c98387f935c87c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura/travelApprovalFlow_LCMP",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura/travelApprovalFlow_LCMP",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1546548530915,
+            "changeTime": 1570607577728,
+            "contentHash": "eac1762aa8fb539f231e6c6285aeafaaaea866a1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura/travelApprovalFlow_LCMP/travelApprovalFlow_LCMP.cmp",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura/travelApprovalFlow_LCMP/travelApprovalFlow_LCMP.cmp",
+            "isDirectory": false,
+            "size": 409,
+            "modifiedTime": 1589962506690,
+            "changeTime": 1589962506690,
+            "contentHash": "0218cd22e909a46cf913dd4ec3d6a5cc25a8cb92",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura/travelApprovalFlow_LCMP/travelApprovalFlow_LCMP.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura/travelApprovalFlow_LCMP/travelApprovalFlow_LCMP.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1570607577726,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura/travelApprovalFlow_LCMP/travelApprovalFlow_LCMPController.js",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura/travelApprovalFlow_LCMP/travelApprovalFlow_LCMPController.js",
+            "isDirectory": false,
+            "size": 1561,
+            "modifiedTime": 1570622387729,
+            "changeTime": 1570622387729,
+            "contentHash": "5417ba5735f3ef71fa04c236fa205e7a14f1c9cc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura/travelApprovalPath_LCMP",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura/travelApprovalPath_LCMP",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1546548528752,
+            "changeTime": 1570607577717,
+            "contentHash": "7ac0e732cc8b74ad9d3361b1a770a52337bccf2c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura/travelApprovalPath_LCMP/travelApprovalPath_LCMP.cmp",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura/travelApprovalPath_LCMP/travelApprovalPath_LCMP.cmp",
+            "isDirectory": false,
+            "size": 3141,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1570607577716,
+            "contentHash": "fc05ae992ef9e237daaac5083bc28e33417e2ff4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura/travelApprovalPath_LCMP/travelApprovalPath_LCMP.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura/travelApprovalPath_LCMP/travelApprovalPath_LCMP.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1570607577714,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura/travelApprovalPath_LCMP/travelApprovalPath_LCMP.css",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura/travelApprovalPath_LCMP/travelApprovalPath_LCMP.css",
+            "isDirectory": false,
+            "size": 862,
+            "modifiedTime": 1542818273000,
+            "changeTime": 1570607577717,
+            "contentHash": "796c55ab0c31332091ec27d6d587937d79fbff3b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura/travelApprovalPath_LCMP/travelApprovalPath_LCMP.design",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/aura/travelApprovalPath_LCMP/travelApprovalPath_LCMP.design",
+            "isDirectory": false,
+            "size": 106,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1570607577715,
+            "contentHash": "737b7840431bbddcc960b4d921ea84ff85fa2725",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/classes",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1570607577676,
+            "changeTime": 1570607577676,
+            "contentHash": "7bdbf83536a4371ff5aa65b69a973f13d2195bed",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/classes/Rules_CTRL.cls",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/classes/Rules_CTRL.cls",
+            "isDirectory": false,
+            "size": 3573,
+            "modifiedTime": 1548337993978,
+            "changeTime": 1575973560651,
+            "contentHash": "4e0057442d28eb3eb9dedfd561ad92d38e340266",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/classes/Rules_CTRL.cls-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/classes/Rules_CTRL.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1520265208000,
+            "changeTime": 1570607577677,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/classes/Rules_CTRL_TEST.cls",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/classes/Rules_CTRL_TEST.cls",
+            "isDirectory": false,
+            "size": 675,
+            "modifiedTime": 1548321721838,
+            "changeTime": 1570607577676,
+            "contentHash": "af0bc397d8e83d2fd83e4926e15d669b035ea2c2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/classes/Rules_CTRL_TEST.cls-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/classes/Rules_CTRL_TEST.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1520265208000,
+            "changeTime": 1570607577675,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/contentassets",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/contentassets",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1570607577671,
+            "changeTime": 1570607577671,
+            "contentHash": "865db785ef331480e469991e83fcc070481495a6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/contentassets/passporticon12.asset",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/contentassets/passporticon12.asset",
+            "isDirectory": false,
+            "size": 236424,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1570607577672,
+            "contentHash": "5fe9aa2ab578d391bae9c24950f007b0ccc7b20f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/contentassets/passporticon12.asset-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/contentassets/passporticon12.asset-meta.xml",
+            "isDirectory": false,
+            "size": 480,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1570607577671,
+            "contentHash": "d074544135b095966f32911d48bb7f09f407e564",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/dashboards",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/dashboards",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1546548508533,
+            "changeTime": 1570607577707,
+            "contentHash": "7625bd3c1c270c3778ee79b4f6cddf1b2d1c95af",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/dashboards/Travel_Approval_Dashboards",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/dashboards/Travel_Approval_Dashboards",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1546548521609,
+            "changeTime": 1570607577706,
+            "contentHash": "c80e9ef4770ce29232ff2de9bfbe461a07ca2e87",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/dashboards/Travel_Approval_Dashboards/STDwCobtbLuIQGpJjJZWQTTdGZdCwv.dashboard-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/dashboards/Travel_Approval_Dashboards/STDwCobtbLuIQGpJjJZWQTTdGZdCwv.dashboard-meta.xml",
+            "isDirectory": false,
+            "size": 8552,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1570607577706,
+            "contentHash": "57a62825b402895131bcf5ad474fa555a97671d8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/dashboards/Travel_Approval_Dashboards.dashboardFolder-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/dashboards/Travel_Approval_Dashboards.dashboardFolder-meta.xml",
+            "isDirectory": false,
+            "size": 267,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1570607577707,
+            "contentHash": "9a780585d474bd7f78ded8859a9b5d534b892a40",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/dataSources",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/dataSources",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1548766398718,
+            "changeTime": 1570607577658,
+            "contentHash": "3d3ed7e18f64f1e48b410a4866ad5318e5e9a85f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/dataSources/restWSRulesPostgres.dataSource-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/dataSources/restWSRulesPostgres.dataSource-meta.xml",
+            "isDirectory": false,
+            "size": 795,
+            "modifiedTime": 1548322083475,
+            "changeTime": 1570607577658,
+            "contentHash": "28ad8e520d27eaa3d00bd03da1c2bb4b5e12419f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/flexipages",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1570607577678,
+            "changeTime": 1570607577678,
+            "contentHash": "1c97bb6918a8435156077ad20c418759d1bcee25",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/flexipages/Travel_Approval_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/flexipages/Travel_Approval_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8004,
+            "modifiedTime": 1590503085138,
+            "changeTime": 1590503085138,
+            "contentHash": "8638cc8de8ba30dc61eb93bb39ee56aafce83dbc"
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/flexipages/Travel_Approval_UtilityBar1.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/flexipages/Travel_Approval_UtilityBar1.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 389,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1570607577678,
+            "contentHash": "7d9677e196d6d5d8f1412759c0a55c4f7dc10269",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/flows",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/flows",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1548766128680,
+            "changeTime": 1570607577731,
+            "contentHash": "c6faa5fe9c0d85f747043a3c1ed9fdf1e32729c0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/flows/Travel_Approval_Assign_Approver_Level_1.flow-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/flows/Travel_Approval_Assign_Approver_Level_1.flow-meta.xml",
+            "isDirectory": false,
+            "size": 12648,
+            "modifiedTime": 1571147815907,
+            "changeTime": 1571147815907,
+            "contentHash": "7028d8cabee8e834e18a910a5681ccac555d30e1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/flows/Travel_Approval_Flow.flow-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/flows/Travel_Approval_Flow.flow-meta.xml",
+            "isDirectory": false,
+            "size": 16646,
+            "modifiedTime": 1571209869045,
+            "changeTime": 1571209869045,
+            "contentHash": "43a069bbfff3c45b4eba857d6bafa976c2b7d486",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/labels",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/labels",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1546548516776,
+            "changeTime": 1570607577679,
+            "contentHash": "c3835cc038e1e9f66a66938c26f39887d32c77d8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/labels/CustomLabels.labels-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/labels/CustomLabels.labels-meta.xml",
+            "isDirectory": false,
+            "size": 1322,
+            "modifiedTime": 1548854181250,
+            "changeTime": 1586521164982,
+            "contentHash": "ca41e5ad6556116015d9192fdeb80f26274c4eb2",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/layouts",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/layouts",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1571067806433,
+            "changeTime": 1571067806433,
+            "contentHash": "11403040374369a27f93cc75e9464baf7f8b673f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/layouts/Travel_Approval__c-Travel Approval Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/layouts/Travel_Approval__c-Travel Approval Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 5114,
+            "modifiedTime": 1571067684047,
+            "changeTime": 1571067684047,
+            "contentHash": "e15b51390d29c2c84acd75ee9a08c8d773543a19",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/layouts/public_rulestable__x-public%24rulestable Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/layouts/public_rulestable__x-public%24rulestable Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 1649,
+            "modifiedTime": 1520265208000,
+            "changeTime": 1570607577703,
+            "contentHash": "4a1f3f428fef11449f4f56cc6b2fbc149f36bc3e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/lwc",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/lwc",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1570635554489,
+            "changeTime": 1570635554489,
+            "contentHash": "625c882d7a604002dd4644c653e78cf177ece5e0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/lwc/rules_LWC",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/lwc/rules_LWC",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1583165522074,
+            "changeTime": 1583165522074,
+            "contentHash": "23ed4fd7be76f47e9a673afae6de66597dc3ed4d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/lwc/rules_LWC/rules_LWC.html",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/lwc/rules_LWC/rules_LWC.html",
+            "isDirectory": false,
+            "size": 2566,
+            "modifiedTime": 1548854518230,
+            "changeTime": 1570607577663,
+            "contentHash": "9184031c1f18fb557bc7dc4c4ee2a1bbd81d6223",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/lwc/rules_LWC/rules_LWC.js",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/lwc/rules_LWC/rules_LWC.js",
+            "isDirectory": false,
+            "size": 3804,
+            "modifiedTime": 1583164650495,
+            "changeTime": 1583165522076,
+            "contentHash": "87bab637a67b87781edacce91d645636377d9c13",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/lwc/rules_LWC/rules_LWC.js-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/lwc/rules_LWC/rules_LWC.js-meta.xml",
+            "isDirectory": false,
+            "size": 1296,
+            "modifiedTime": 1571150916393,
+            "changeTime": 1571150916393,
+            "contentHash": "4d9d90dd6d84fcee20341169cd19b80aa4eeecd2",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/lwc/travelApprovalFileUpload_LWC",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/lwc/travelApprovalFileUpload_LWC",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1583165536246,
+            "changeTime": 1583165536246,
+            "contentHash": "e38015f9a361b3e6fff4faa211d2f42705d68a47",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/lwc/travelApprovalFileUpload_LWC/travelApprovalFileUpload_LWC.html",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/lwc/travelApprovalFileUpload_LWC/travelApprovalFileUpload_LWC.html",
+            "isDirectory": false,
+            "size": 1757,
+            "modifiedTime": 1548783341949,
+            "changeTime": 1586521084497,
+            "contentHash": "a569ca8a442441683f9d9eac330b8da87e19a84b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/lwc/travelApprovalFileUpload_LWC/travelApprovalFileUpload_LWC.js",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/lwc/travelApprovalFileUpload_LWC/travelApprovalFileUpload_LWC.js",
+            "isDirectory": false,
+            "size": 2086,
+            "modifiedTime": 1583164319053,
+            "changeTime": 1586521084497,
+            "contentHash": "21c0460824f8a4b78e3346e15a8e7e839737d34d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/lwc/travelApprovalFileUpload_LWC/travelApprovalFileUpload_LWC.js-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/lwc/travelApprovalFileUpload_LWC/travelApprovalFileUpload_LWC.js-meta.xml",
+            "isDirectory": false,
+            "size": 1154,
+            "modifiedTime": 1571151072082,
+            "changeTime": 1586522503379,
+            "contentHash": "270dfd7b3acd49a71b5252b0748c51f7709282f5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/lwc/travelApprovalPath_LWC",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/lwc/travelApprovalPath_LWC",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1570622596415,
+            "changeTime": 1570622596415,
+            "contentHash": "146841fc482da9f0898b871a1cf0bb682adeb4a3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/lwc/travelApprovalPath_LWC/travelApprovalPath_LWC.html",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/lwc/travelApprovalPath_LWC/travelApprovalPath_LWC.html",
+            "isDirectory": false,
+            "size": 1856,
+            "modifiedTime": 1570699630405,
+            "changeTime": 1586550567960,
+            "contentHash": "f8f38576c22276f9b9d0e37a53cbfbd2fa2872a5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/lwc/travelApprovalPath_LWC/travelApprovalPath_LWC.js",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/lwc/travelApprovalPath_LWC/travelApprovalPath_LWC.js",
+            "isDirectory": false,
+            "size": 1462,
+            "modifiedTime": 1571067363615,
+            "changeTime": 1571067363615,
+            "contentHash": "d9cb8662541153deb39169af58cebbfc8194b869",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/lwc/travelApprovalPath_LWC/travelApprovalPath_LWC.js-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/lwc/travelApprovalPath_LWC/travelApprovalPath_LWC.js-meta.xml",
+            "isDirectory": false,
+            "size": 698,
+            "modifiedTime": 1570699495001,
+            "changeTime": 1570699495001,
+            "contentHash": "540fd3ce5c52a9a5b71bb8fc1e335d3a6cdbd980",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/namedCredentials",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/namedCredentials",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1548322561739,
+            "changeTime": 1570607577729,
+            "contentHash": "9ed6fd6589b378c45de9c2a3629f57ea5705d7c3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/namedCredentials/restWSRules_Credentials.namedCredential-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/namedCredentials/restWSRules_Credentials.namedCredential-meta.xml",
+            "isDirectory": false,
+            "size": 503,
+            "modifiedTime": 1548322561739,
+            "changeTime": 1570607577729,
+            "contentHash": "5bbb826127b2b3e462d62bf686fdf2b4a5248be6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/notificationtypes",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/notificationtypes",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1571146637444,
+            "changeTime": 1571146637444,
+            "contentHash": "c03b3d6700decb5dac6563d1b88a967e2bc72284",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/notificationtypes/Travel_Approval_submitted_for_approval_notification_to_Owner.notiftype-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/notificationtypes/Travel_Approval_submitted_for_approval_notification_to_Owner.notiftype-meta.xml",
+            "isDirectory": false,
+            "size": 392,
+            "modifiedTime": 1571146637444,
+            "changeTime": 1571146637444,
+            "contentHash": "687e508f4869cbd02d9b4d03679b4cab1a6f6a68",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1574090893769,
+            "changeTime": 1574090893769,
+            "contentHash": "53c2a40f0a18e2fd252d784dd448b314e4a57e03",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/Travel_Approval__c-en_US",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/Travel_Approval__c-en_US",
+            "isDirectory": true,
+            "size": 320,
+            "modifiedTime": 1574092849449,
+            "changeTime": 1574092849449,
+            "contentHash": "9ba589270d85fb67569712f20a1668fed2f8e97d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/Travel_Approval__c-en_US/Approval_Status__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/Travel_Approval__c-en_US/Approval_Status__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 766,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1570607577747,
+            "contentHash": "040999eb39eebc313a561c5c0bc9994fb487bee5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/Travel_Approval__c-en_US/Approver_Level_1__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/Travel_Approval__c-en_US/Approver_Level_1__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 289,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1570607577742,
+            "contentHash": "60a1019016317fc75022b680abb5888f2670e609",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/Travel_Approval__c-en_US/Description__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/Travel_Approval__c-en_US/Description__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1570607577746,
+            "contentHash": "166173383e1b13d501edb3891e17ca3a693d0314",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/Travel_Approval__c-en_US/Travel_Approval__c-en_US.objectTranslation-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/Travel_Approval__c-en_US/Travel_Approval__c-en_US.objectTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 892,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1570607577744,
+            "contentHash": "0f58cc358496a843473be159f71627ea67f4058e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/Travel_Approval__c-en_US/Travel_Cost__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/Travel_Approval__c-en_US/Travel_Cost__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1570607577749,
+            "contentHash": "72ea5fba406b477b43632c564e8f603316611fee",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/Travel_Approval__c-en_US/Travel_Date__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/Travel_Approval__c-en_US/Travel_Date__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1570607577745,
+            "contentHash": "20e72ae3461954a8f6074f371f596bd24f230502",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/Travel_Approval__c-en_US/Travel_Destination__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/Travel_Approval__c-en_US/Travel_Destination__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 224,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1570607577744,
+            "contentHash": "d681cb6dc1376c744df6c8dbe134e4afb59d6dc1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/Travel_Approval__c-en_US/Travel_Reason__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/Travel_Approval__c-en_US/Travel_Reason__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 680,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1570607577743,
+            "contentHash": "2856930479269295c586c3c8542292bc09a2b90f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/Travel_Approval__c-fr",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/Travel_Approval__c-fr",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1574928146988,
+            "changeTime": 1574928146988,
+            "contentHash": "21ab1893555a31e269d07db723925522cf041a5e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/Travel_Approval__c-fr/Approval_Status__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/Travel_Approval__c-fr/Approval_Status__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 719,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1574927772409,
+            "contentHash": "8e06a2b93cda5579c2c552034ecc87e311879a66",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/Travel_Approval__c-fr/Approver_Level_1__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/Travel_Approval__c-fr/Approver_Level_1__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 286,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1574927848067,
+            "contentHash": "6ea0c740cae3d40bb6a25105e4429cd1d2717064",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/Travel_Approval__c-fr/Customer_Partner_Name__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/Travel_Approval__c-fr/Customer_Partner_Name__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 286,
+            "modifiedTime": 1574928121139,
+            "changeTime": 1574928146990,
+            "contentHash": "3fa4e4a35d17c91caf44a1fedbbf37c6b17870e0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/Travel_Approval__c-fr/Description__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/Travel_Approval__c-fr/Description__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 201,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1570607577754,
+            "contentHash": "84f8cbb83c0709682898c875c9d5fced3778e15b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/Travel_Approval__c-fr/Travel_Approval__c-fr.objectTranslation-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/Travel_Approval__c-fr/Travel_Approval__c-fr.objectTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 969,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1570607577754,
+            "contentHash": "92beb37a562655e33c04495cc00978e1b4044b0f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/Travel_Approval__c-fr/Travel_Cost__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/Travel_Approval__c-fr/Travel_Cost__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 205,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1570607577756,
+            "contentHash": "913272f3bfb83d7fc100ea200a4a887e4b02728d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/Travel_Approval__c-fr/Travel_Date__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/Travel_Approval__c-fr/Travel_Date__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1570607577753,
+            "contentHash": "1a89d7740e4cfd430ad06f268ca68d42a3baea8f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/Travel_Approval__c-fr/Travel_Destination__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/Travel_Approval__c-fr/Travel_Destination__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 208,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1570607577752,
+            "contentHash": "a50b09c0cc27d6ef42dfc64c7bc359233e3b5141",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/Travel_Approval__c-fr/Travel_Reason__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/Travel_Approval__c-fr/Travel_Reason__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 647,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1570607577752,
+            "contentHash": "95b34b6651adc8f3516b1d049870ca867752d7fb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/public_rulestable__x-en_US",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/public_rulestable__x-en_US",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1546547877971,
+            "changeTime": 1570607577737,
+            "contentHash": "48913c86826cd45047145829ac5fa33cea897cee",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/public_rulestable__x-en_US/description__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/public_rulestable__x-en_US/description__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1520265208000,
+            "changeTime": 1570607577736,
+            "contentHash": "218335e154c6f3b5da45e3757ae15df5304ccedd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/public_rulestable__x-en_US/name__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/public_rulestable__x-en_US/name__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 196,
+            "modifiedTime": 1520265208000,
+            "changeTime": 1570607577736,
+            "contentHash": "176f2cd32df985bc47162e820e7ead135b325cd9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/public_rulestable__x-en_US/public_rulestable__x-en_US.objectTranslation-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/public_rulestable__x-en_US/public_rulestable__x-en_US.objectTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 723,
+            "modifiedTime": 1520265208000,
+            "changeTime": 1570607577737,
+            "contentHash": "1ab8dd0e4bd51a918b9ee967f973dfe4789b0082",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/public_rulestable__x-en_US/type__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/public_rulestable__x-en_US/type__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 196,
+            "modifiedTime": 1520265208000,
+            "changeTime": 1570607577735,
+            "contentHash": "0b689f0bf0ae403e9b7c1dea7fc2d3f1d62bc700",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/public_rulestable__x-fr",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/public_rulestable__x-fr",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1546547876514,
+            "changeTime": 1570607577741,
+            "contentHash": "2c279409755cd380079db7651e995f00c226c2f0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/public_rulestable__x-fr/description__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/public_rulestable__x-fr/description__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1520265208000,
+            "changeTime": 1570607577741,
+            "contentHash": "218335e154c6f3b5da45e3757ae15df5304ccedd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/public_rulestable__x-fr/name__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/public_rulestable__x-fr/name__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 196,
+            "modifiedTime": 1520265208000,
+            "changeTime": 1570607577740,
+            "contentHash": "176f2cd32df985bc47162e820e7ead135b325cd9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/public_rulestable__x-fr/public_rulestable__x-fr.objectTranslation-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/public_rulestable__x-fr/public_rulestable__x-fr.objectTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 790,
+            "modifiedTime": 1520265208000,
+            "changeTime": 1570607577740,
+            "contentHash": "96601f0ad5f2364436ce5c2e04998c467f5e6f7a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/public_rulestable__x-fr/type__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objectTranslations/public_rulestable__x-fr/type__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 196,
+            "modifiedTime": 1520265208000,
+            "changeTime": 1570607577739,
+            "contentHash": "0b689f0bf0ae403e9b7c1dea7fc2d3f1d62bc700",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1570607577697,
+            "changeTime": 1570607577697,
+            "contentHash": "c7c420fb2ca41a422189dd35f058993e4053b4e5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/Travel_Approval__c",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/Travel_Approval__c",
+            "isDirectory": true,
+            "size": 288,
+            "modifiedTime": 1561123704871,
+            "changeTime": 1570607577697,
+            "contentHash": "6a601dd8993230ab59522bbc279aa9626c96b622",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/Travel_Approval__c/Travel_Approval__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/Travel_Approval__c/Travel_Approval__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 6571,
+            "modifiedTime": 1571151574821,
+            "changeTime": 1571151574821,
+            "contentHash": "033b01d31d3b509ff4dd113688f9b6ad6f026df4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/Travel_Approval__c/compactLayouts",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/Travel_Approval__c/compactLayouts",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1546548532876,
+            "changeTime": 1570607577697,
+            "contentHash": "c9a6f7ff0f9a8f25f5b02a333ea24082b84d11da",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/Travel_Approval__c/compactLayouts/Travel_Approval_Compact_Layout.compactLayout-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/Travel_Approval__c/compactLayouts/Travel_Approval_Compact_Layout.compactLayout-meta.xml",
+            "isDirectory": false,
+            "size": 605,
+            "modifiedTime": 1571151574825,
+            "changeTime": 1571151574825,
+            "contentHash": "1cfa2a7b51253c726240324fba4cfa5648720afd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/Travel_Approval__c/fields",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/Travel_Approval__c/fields",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1571151574834,
+            "changeTime": 1571151574834,
+            "contentHash": "f143a5c271fd2635354cc1bfe5b95539a572d8ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/Travel_Approval__c/fields/Approval_Status__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/Travel_Approval__c/fields/Approval_Status__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1235,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1570607577688,
+            "contentHash": "a092d01497dfa034559d17d035dc75d3caf4e313",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/Travel_Approval__c/fields/Approver_Level_1__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/Travel_Approval__c/fields/Approver_Level_1__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 557,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1570607577688,
+            "contentHash": "cc835847de6aaa7e55c3f0ca3a79d89ef3d92462",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/Travel_Approval__c/fields/Customer_Partner_Name__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/Travel_Approval__c/fields/Customer_Partner_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 630,
+            "modifiedTime": 1571067684041,
+            "changeTime": 1571067684041,
+            "contentHash": "af36e71cfd1b311477d967e229ff27f4b12506f6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/Travel_Approval__c/fields/Description_Formula__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/Travel_Approval__c/fields/Description_Formula__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 489,
+            "modifiedTime": 1571151574834,
+            "changeTime": 1571151574834,
+            "contentHash": "6d3623665cf7d1f6518b0d9964c41a241904f91e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/Travel_Approval__c/fields/Description__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/Travel_Approval__c/fields/Description__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 406,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1570607577692,
+            "contentHash": "346025d4ec10da475c15686533ba74ab5919f64a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/Travel_Approval__c/fields/Travel_Cost__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/Travel_Approval__c/fields/Travel_Cost__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 457,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1570607577689,
+            "contentHash": "d206c45732a1c5e51f6bd386c59c2e833e1d21b3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/Travel_Approval__c/fields/Travel_Date__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/Travel_Approval__c/fields/Travel_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 402,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1570607577692,
+            "contentHash": "670fcbe716295035d65f91e88491fdc0c21d78d9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/Travel_Approval__c/fields/Travel_Destination__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/Travel_Approval__c/fields/Travel_Destination__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 467,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1570607577690,
+            "contentHash": "7a895087477c5c836f63782c43a9aafa128116bb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/Travel_Approval__c/fields/Travel_Reason__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/Travel_Approval__c/fields/Travel_Reason__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1085,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1570607577691,
+            "contentHash": "9ab04195a0260d7d9e903688e0b644b11c94922a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/Travel_Approval__c/listViews",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/Travel_Approval__c/listViews",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1546548533717,
+            "changeTime": 1570607577686,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/Travel_Approval__c/listViews/All.listView-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/Travel_Approval__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 555,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1570607577686,
+            "contentHash": "cb74e8d4db9c1260e628e47344aa8a75e5aac867",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/Travel_Approval__c/validationRules",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/Travel_Approval__c/validationRules",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1546548533149,
+            "changeTime": 1570607577696,
+            "contentHash": "2602d3a902b55e7aa4f17c7eac7625800ab06797",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/Travel_Approval__c/validationRules/Travel_Date_cannot_be_in_the_past.validationRule-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/Travel_Approval__c/validationRules/Travel_Date_cannot_be_in_the_past.validationRule-meta.xml",
+            "isDirectory": false,
+            "size": 411,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1570607577695,
+            "contentHash": "6d8ed92781e6063fb11b59a48e81a4791bfa1176",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/Travel_Approval__c/webLinks",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/Travel_Approval__c/webLinks",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1546548534362,
+            "changeTime": 1570607577694,
+            "contentHash": "930caaab4afd352707249ae2e5949a89608e4a19",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/Travel_Approval__c/webLinks/New_Using_Flow.webLink-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/Travel_Approval__c/webLinks/New_Using_Flow.webLink-meta.xml",
+            "isDirectory": false,
+            "size": 571,
+            "modifiedTime": 1570638246770,
+            "changeTime": 1570638380094,
+            "contentHash": "9acc78c3145c21f7b86e8d704b65ad4fa5ec9487",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/public_rulestable__x",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/public_rulestable__x",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1546547863356,
+            "changeTime": 1570607577702,
+            "contentHash": "b5440445189add8b3aafc5e776aef2037414dc5a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/public_rulestable__x/fields",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/public_rulestable__x/fields",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1546547869529,
+            "changeTime": 1570607577702,
+            "contentHash": "fb61fd77d8e11ae05998f3eac46a91d282f72a04",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/public_rulestable__x/fields/description__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/public_rulestable__x/fields/description__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 572,
+            "modifiedTime": 1520265209000,
+            "changeTime": 1570607577702,
+            "contentHash": "e611610f7f0a10aa9c0b25036c0f7f23f457d40d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/public_rulestable__x/fields/name__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/public_rulestable__x/fields/name__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 543,
+            "modifiedTime": 1520265209000,
+            "changeTime": 1570607577700,
+            "contentHash": "8ecdc7bc7094f25da3c69f4996503779a879766c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/public_rulestable__x/fields/type__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/public_rulestable__x/fields/type__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 544,
+            "modifiedTime": 1520265209000,
+            "changeTime": 1570607577701,
+            "contentHash": "4cc7f341e274e6585e9075ffb608d040088aa1fd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/public_rulestable__x/listViews",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/public_rulestable__x/listViews",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1546547868953,
+            "changeTime": 1570607577699,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/public_rulestable__x/listViews/All.listView-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/public_rulestable__x/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 338,
+            "modifiedTime": 1520265209000,
+            "changeTime": 1570607577699,
+            "contentHash": "26bd1452cba268a1de983516fad3d6724e959238",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/public_rulestable__x/public_rulestable__x.object-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/objects/public_rulestable__x/public_rulestable__x.object-meta.xml",
+            "isDirectory": false,
+            "size": 2133,
+            "modifiedTime": 1520265209000,
+            "changeTime": 1570607577702,
+            "contentHash": "72a8fe96ed750bc5fe3ac87ce7202a5c868c20a6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/pathAssistants",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/pathAssistants",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1546548508532,
+            "changeTime": 1570607577709,
+            "contentHash": "b0e11886de120614ed564ff6356e42bbd84fc322",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/pathAssistants/Travel_Approval_Path.pathAssistant-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/pathAssistants/Travel_Approval_Path.pathAssistant-meta.xml",
+            "isDirectory": false,
+            "size": 340,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1570607577709,
+            "contentHash": "531f978ac9f7b336ffdaabbb0020cd3d4309f6f7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/permissionsetgroups",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/permissionsetgroups",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1571298426702,
+            "changeTime": 1571298426702,
+            "contentHash": "c095357ceba680e57189bc5dfad49d6aaa282ac7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/permissionsetgroups/Travel_Approval_Access.permissionsetgroup-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/permissionsetgroups/Travel_Approval_Access.permissionsetgroup-meta.xml",
+            "isDirectory": false,
+            "size": 502,
+            "modifiedTime": 1583159934112,
+            "changeTime": 1583159934112,
+            "contentHash": "b67a0900ba71e46e1ac78fdfa9c3c4990baad987",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/permissionsets",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1583160045365,
+            "changeTime": 1583160045365,
+            "contentHash": "db38ff68ca2957c0d22b33a0b822b44049ca7df4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/permissionsets/Travel_Approval_Application_Access.permissionset-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/permissionsets/Travel_Approval_Application_Access.permissionset-meta.xml",
+            "isDirectory": false,
+            "size": 1617,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1570607577669,
+            "contentHash": "865589b1ce0faf42233663f8165db7094de57033",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/permissionsets/Travel_Approval_Object_Access.permissionset-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/permissionsets/Travel_Approval_Object_Access.permissionset-meta.xml",
+            "isDirectory": false,
+            "size": 2268,
+            "modifiedTime": 1571151574846,
+            "changeTime": 1571151574846,
+            "contentHash": "4bccbb9291d7019fa317660db5419f4e9ca2171d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/permissionsets/Travel_Approval_Reports_and_Dashboard_Access.permissionset-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/permissionsets/Travel_Approval_Reports_and_Dashboard_Access.permissionset-meta.xml",
+            "isDirectory": false,
+            "size": 1706,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1570607577669,
+            "contentHash": "b8e4d73a51a2330dbe5d999497bb15e191d5bfef",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/profiles",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/profiles",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1548771807017,
+            "changeTime": 1570607577711,
+            "contentHash": "7e77a1548f243fe20b9fcb5e587dd5e11a6d0d9e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 23230,
+            "modifiedTime": 1589900082042,
+            "changeTime": 1589900082042,
+            "contentHash": "c60926af61b46604b33ed12d8407491f7f62415f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/reports",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/reports",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1574874218654,
+            "changeTime": 1574874218654,
+            "contentHash": "0f15b2cfd5a63df8fe2a7b02511c3dd768c297b8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/reports/Travel_Approval_Reports",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/reports/Travel_Approval_Reports",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1546548531548,
+            "changeTime": 1570607577761,
+            "contentHash": "21b945444c8592c8cf471a353580122a33c82b24",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/reports/Travel_Approval_Reports/Demande_de_voyage_ouverte.report-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/reports/Travel_Approval_Reports/Demande_de_voyage_ouverte.report-meta.xml",
+            "isDirectory": false,
+            "size": 1780,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1570607577759,
+            "contentHash": "838974cd69190b5ee7f73363c5a9ce6ac0f56858",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/reports/Travel_Approval_Reports/Demande_de_voyage_par_Approbateur.report-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/reports/Travel_Approval_Reports/Demande_de_voyage_par_Approbateur.report-meta.xml",
+            "isDirectory": false,
+            "size": 1442,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1570607577760,
+            "contentHash": "4921ce0ec9f636696128de8aac37a9620f93edd7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/reports/Travel_Approval_Reports/Demande_de_voyage_par_Demandeur.report-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/reports/Travel_Approval_Reports/Demande_de_voyage_par_Demandeur.report-meta.xml",
+            "isDirectory": false,
+            "size": 1443,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1570607577758,
+            "contentHash": "bd524780af6504a4965cc6562270e6334516c121",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/reports/Travel_Approval_Reports/Demande_de_voyage_par_Statut.report-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/reports/Travel_Approval_Reports/Demande_de_voyage_par_Statut.report-meta.xml",
+            "isDirectory": false,
+            "size": 1516,
+            "modifiedTime": 1571305008071,
+            "changeTime": 1571305008071,
+            "contentHash": "922ec4a5b2161f889ccd692543fd22344cde383f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/reports/Travel_Approval_Reports/Demandes_de_voyage_par_Date_et_Statut.report-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/reports/Travel_Approval_Reports/Demandes_de_voyage_par_Date_et_Statut.report-meta.xml",
+            "isDirectory": false,
+            "size": 1709,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1570607577761,
+            "contentHash": "740acda80815e1cdbec4d90cfc4614cc28878fb4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/reports/Travel_Approval_Reports.reportFolder-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/reports/Travel_Approval_Reports.reportFolder-meta.xml",
+            "isDirectory": false,
+            "size": 258,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1570607577762,
+            "contentHash": "1f73b0497fd4de51f63802b31f4939fc09b2c1e4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/settings",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/settings",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1570175847548,
+            "changeTime": 1570607577668,
+            "contentHash": "57ac12ba5cf859fef412298d52e46d57a30aa0e3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/settings/Security.settings-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/settings/Security.settings-meta.xml",
+            "isDirectory": false,
+            "size": 2639,
+            "modifiedTime": 1548765418591,
+            "changeTime": 1574876200445,
+            "contentHash": "e6a5845f9e29aedaad892d6cc7b21da80f78d356",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/staticresources",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1570607480281,
+            "changeTime": 1570607480281,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/tabs",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/tabs",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1570607577665,
+            "changeTime": 1570607577665,
+            "contentHash": "f9564a14dac0d6cbafe9a7fabff228a8810bce98",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/tabs/Travel_Approval__c.tab-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/tabs/Travel_Approval__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 185,
+            "modifiedTime": 1570613605214,
+            "changeTime": 1570613605220,
+            "contentHash": "7c8944d92ff2ca733bfb0a718fedac8513f2b3c7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/translations",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/translations",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1574873853099,
+            "changeTime": 1590501653871,
+            "contentHash": "292e00e86d5752e9978e4ce4ee8137d6f21a8bd7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/translations/fr.translation-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/translations/fr.translation-meta.xml",
+            "isDirectory": false,
+            "size": 4233,
+            "modifiedTime": 1572865633239,
+            "changeTime": 1574927744173,
+            "contentHash": "be837db8c19a4ae913652519d4662c3500aab653",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/triggers",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/triggers",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1570607480281,
+            "changeTime": 1570607480281,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/workflows",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/workflows",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1546548510302,
+            "changeTime": 1570607577680,
+            "contentHash": "e895c39a2edd1104a169f729b603929e980fe9e2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/workflows/Travel_Approval__c.workflow-meta.xml",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/workflows/Travel_Approval__c.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 1145,
+            "modifiedTime": 1518530333000,
+            "changeTime": 1570607577680,
+            "contentHash": "8769abced1776c332ac01fd5483ba9c4e90c6cfd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN",
+        {
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN",
+            "isDirectory": true,
+            "size": 576,
+            "modifiedTime": 1590501658446,
+            "changeTime": 1590501658446,
+            "contentHash": "9978c0b7a12f708926f53a588b4ccc44432809b5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/quickActions/Account.Travel_Approval_Customer_or_Partner_Information.quickAction-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/quickActions/Account.Travel_Approval_Customer_or_Partner_Information.quickAction-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1560,
+            "modifiedTime": 1590503085129,
+            "changeTime": 1590503085129,
+            "contentHash": "d2a86fcbfa915abfcc5fa9a42b2bc0f05716c1e9"
+        }
+    ],
+    [
+        "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/quickActions",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv3-EN/force-app/main/default/quickActions",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1590503085129,
+            "changeTime": 1590503085129,
+            "contentHash": "2c13dd2215428707fdf2c8492bbc30e26c65f0fb"
+        }
+    ]
+]

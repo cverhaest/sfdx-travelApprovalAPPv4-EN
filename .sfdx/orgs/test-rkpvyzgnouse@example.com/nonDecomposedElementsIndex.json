@@ -1,0 +1,27 @@
+{
+    "CustomLabels__GRC_Rule": {
+        "fullName": "GRC_Rule",
+        "type": "CustomLabels",
+        "metadataFilePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv4-EN/force-app/main/default/labels/CustomLabels.labels-meta.xml"
+    },
+    "CustomLabels__GRC_Rules": {
+        "fullName": "GRC_Rules",
+        "type": "CustomLabels",
+        "metadataFilePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv4-EN/force-app/main/default/labels/CustomLabels.labels-meta.xml"
+    },
+    "CustomLabels__TA_Button_Close": {
+        "fullName": "TA_Button_Close",
+        "type": "CustomLabels",
+        "metadataFilePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv4-EN/force-app/main/default/labels/CustomLabels.labels-meta.xml"
+    },
+    "CustomLabels__TA_Expense_Receipt": {
+        "fullName": "TA_Expense_Receipt",
+        "type": "CustomLabels",
+        "metadataFilePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv4-EN/force-app/main/default/labels/CustomLabels.labels-meta.xml"
+    },
+    "CustomLabels__TA_Upload_Expense_Receipt": {
+        "fullName": "TA_Upload_Expense_Receipt",
+        "type": "CustomLabels",
+        "metadataFilePath": "/Users/cverhaest/Google Drive/cverhaest/00-Salesforce/08-PreSales/00-Salesforce/03-Salesforce DX/Sources/sfdx-travelApprovalAPPv4-EN/force-app/main/default/labels/CustomLabels.labels-meta.xml"
+    }
+}

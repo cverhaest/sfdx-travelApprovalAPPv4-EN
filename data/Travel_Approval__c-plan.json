@@ -1,0 +1,10 @@
+[
+    {
+        "sobject": "Travel_Approval__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "Travel_Approval__cs.json"
+        ]
+    }
+]

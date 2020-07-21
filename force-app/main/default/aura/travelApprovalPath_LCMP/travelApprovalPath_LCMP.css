@@ -1,0 +1,26 @@
+/*.THIS .slds-is-complete,.THIS .slds-is-current::before,.THIS .slds-is-complete::before{
+    background-color:token(colorBackgroundButtonBrandActive);
+}
+.THIS .slds-is-complete:hover,.THIS .slds-is-current::before,.THIS .slds-is-complete::before{
+    background-color:token(colorBackgroundButtonBrandActive);
+}
+.THIS .slds-path__item:hover + .slds-is-complete::before,.THIS .slds-path__item:hover + .slds-is-current::before{
+    background-color:token(colorBackgroundButtonBrandActive);
+}
+.THIS .slds-is-current{
+    background-color:token(colorBackgroundButtonBrand);
+}
+
+.THIS .slds-path__nav .slds-is-current + .slds-is-incomplete::before {
+    background-color:token(colorBackgroundButtonBrand);
+}
+.THIS .slds-path__nav .slds-is-current:hover{
+    background-color:token(colorBackgroundButtonBrand);
+}
+
+
+.THIS a{
+    cursor:default !important;
+}*/
+.THIS {
+}

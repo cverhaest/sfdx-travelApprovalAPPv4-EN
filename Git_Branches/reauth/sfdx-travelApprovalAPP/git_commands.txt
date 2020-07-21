@@ -1,0 +1,8 @@
+cd Git_Branches/reauth/sfdx-travelApprovalAPP/
+git init
+git checkout --orphan reauth
+git checkout -b reauth
+git remote add origin https://github.com/cverhaest/sfdx-travelApprovalAPPv3-EN.git
+git add .
+git commit -m "Travel Approval Application Reauth Commit"
+git push -u origin reauth
