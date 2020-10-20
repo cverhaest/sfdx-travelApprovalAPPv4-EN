@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<PermissionSetGroup xmlns="http://soap.sforce.com/2006/04/metadata">
-    <description>All Permissions Sets of the Travel Approval App.</description>
-    <label>Travel Approval Access</label>
-    <permissionSets>Travel_Approval_Application_Access</permissionSets>
-    <permissionSets>Travel_Approval_Object_Access</permissionSets>
-    <permissionSets>Travel_Approval_Reports_and_Dashboard_Access</permissionSets>
-    <status>Updated</status>
-</PermissionSetGroup>

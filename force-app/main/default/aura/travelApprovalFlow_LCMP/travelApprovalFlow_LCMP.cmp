@@ -21,19 +21,19 @@
       <div role="dialog" tabindex="-1" aria-labelledby="modalHeader" class="slds-modal slds-fade-in-open ">
         <div class="slds-modal__container">
           <!-- MODAL HEADER -->
-            <div class="slds-modal__header">
-              <button class="slds-button slds-modal__close slds-button--icon-inverse" title="{!$Label.c.TA_Button_Close}" onclick="{!c.closeModal}">
-                X <span class="slds-assistive-text">Close</span>
-              </button>
-            </div>
-                  
-            <!--MODAL BODY -->
-            <div class="slds-modal__content slds-p-around--small">                                                     
-                <lightning:flow aura:id="flowData" onstatuschange="{!c.handleStatusChange}"/>
-            </div>
-            <!-- / MODAL BODY -->
+          <div class="slds-modal__header">
+            <button class="slds-button slds-modal__close slds-button--icon-inverse" title="{!$Label.c.TA_Button_Close}" onclick="{!c.closeModal}">
+              X <span class="slds-assistive-text">Close</span>
+            </button>
           </div>
+                  
+          <!--MODAL BODY -->
+          <div class="slds-modal__content slds-p-around--small">                                                     
+              <lightning:flow aura:id="flowData" onstatuschange="{!c.handleStatusChange}"/>
+          </div>
+          <!-- / MODAL BODY -->
         </div>
+      </div>
       <div class="slds-backdrop slds-backdrop--open"></div>             
     </div>  
   </aura:if>    

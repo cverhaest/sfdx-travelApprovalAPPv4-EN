@@ -1,8 +1,0 @@
-cd Git_Branches/step4/sfdx-travelApprovalAPP/
-git init
-git checkout --orphan step4
-git checkout -b step4
-git remote add origin https://github.com/cverhaest/sfdx-travelApprovalAPPv4-EN.git
-git add .
-git commit -m "Travel Approval Application step4 Commit"
-git push -u origin step4

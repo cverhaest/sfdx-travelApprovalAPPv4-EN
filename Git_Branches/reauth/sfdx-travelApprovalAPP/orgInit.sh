@@ -1,1 +1,0 @@
-sfdx force:auth:jwt:grant
