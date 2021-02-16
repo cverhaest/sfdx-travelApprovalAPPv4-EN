@@ -23,7 +23,15 @@
         <protected>false</protected>
         <shortDescription>TA - Button Close</shortDescription>
         <value>Close</value>
-    </labels>    
+    </labels>
+    <labels>
+        <fullName>TA_Customer_Partner</fullName>
+        <categories>Travel Approval Application</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>TA_Customer_Partner</shortDescription>
+        <value>Customer or Partner</value>
+    </labels>
     <labels>
         <fullName>TA_Expense_Receipt</fullName>
         <categories>Travel Approval Application</categories>
@@ -31,6 +39,14 @@
         <protected>false</protected>
         <shortDescription>TA - Expense Receipt</shortDescription>
         <value>Expense Receipt</value>
+    </labels>
+    <labels>
+        <fullName>TA_System_Information</fullName>
+        <categories>Travel Approval Application</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>TA_System_Information</shortDescription>
+        <value>System Information</value>
     </labels>
     <labels>
         <fullName>TA_Upload_Expense_Receipt</fullName>

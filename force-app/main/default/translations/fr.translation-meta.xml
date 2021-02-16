@@ -17,8 +17,16 @@
         <name>TA_Button_Close</name>
     </customLabels>
     <customLabels>
+        <label>Client ou Partenaire</label>
+        <name>TA_Customer_Partner</name>
+    </customLabels>
+    <customLabels>
         <label>Reçu</label>
         <name>TA_Expense_Receipt</name>
+    </customLabels>
+    <customLabels>
+        <label>Informations système</label>
+        <name>TA_System_Information</name>
     </customLabels>
     <customLabels>
         <label>Charger le reçu</label>
