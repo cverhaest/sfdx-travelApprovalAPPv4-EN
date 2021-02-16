@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>TA_Customer_Partner</fullName>
+        <categories>Travel Approval Application</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>TA_Customer_Partner</shortDescription>
+        <value>Customer or Partner</value>
+    </labels>
+    <labels>
+        <fullName>TA_System_Information</fullName>
+        <categories>Travel Approval Application</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>TA_System_Information</shortDescription>
+        <value>System Information</value>
+    </labels>
+</CustomLabels>

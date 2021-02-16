@@ -4,4 +4,12 @@
         <label>Demande de Voyage</label>
         <name>Travel_Approval_Light</name>
     </customApplications>
+    <customLabels>
+        <label>Client ou Partenaire</label>
+        <name>TA_Customer_Partner</name>
+    </customLabels>
+    <customLabels>
+        <label>Informations système</label>
+        <name>TA_System_Information</name>
+    </customLabels>
 </Translations>
