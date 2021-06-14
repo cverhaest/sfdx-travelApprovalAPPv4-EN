@@ -173,7 +173,7 @@
     <screens>
         <name>Approval</name>
         <label>Approval</label>
-        <locationX>726</locationX>
+        <locationX>725</locationX>
         <locationY>117</locationY>
         <allowBack>true</allowBack>
         <allowFinish>true</allowFinish>
@@ -195,29 +195,81 @@
             <storeOutputAutomatically>true</storeOutputAutomatically>
         </fields>
         <fields>
-            <name>Approval_Message</name>
-            <fieldText>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;font-size: 12px; color: rgb(62, 62, 60);&quot;&gt;&lt;u&gt;﻿&lt;/u&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 12px; color: rgb(0, 0, 0);&quot;&gt;&lt;u&gt;﻿&lt;img src=&quot;https://www.dropbox.com/s/5i0cry7vjqtjjfp/travel_approval.jpeg?raw=1&quot;&gt;&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;font-size: 12px; color: rgb(0, 0, 0);&quot;&gt;&lt;u&gt;Travel Approval Resume&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; color: rgb(62, 62, 60);&quot;&gt;Travel Description: {!Description}&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; color: rgb(62, 62, 60);&quot;&gt;Travel Destination: {!Travel_Destination}&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; color: rgb(62, 62, 60);&quot;&gt;Travel Reason: {!Travel_Reason_Picklist}&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; color: rgb(62, 62, 60);&quot;&gt;Travel Date: {!Travel_Date}&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; color: rgb(62, 62, 60);&quot;&gt;Travel Cost: {!Travel_Cost}&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; color: rgb(62, 62, 60);&quot;&gt;Customer or Partner Name: {!CustomerOrPartnerName}&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;</fieldText>
-            <fieldType>DisplayText</fieldType>
-        </fields>
-        <fields>
-            <name>TravelApprover</name>
-            <fieldText>&lt;p&gt;&lt;b style=&quot;font-size: 12px; color: rgb(0, 0, 0);&quot;&gt;&lt;u&gt;Approver Level 1&lt;/u&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 12px; color: rgb(0, 0, 0);&quot;&gt;:&lt;/span&gt;&lt;span style=&quot;font-size: 12px; color: rgb(62, 62, 60);&quot;&gt; {!ManagerUser.Name}&lt;/span&gt;&lt;/p&gt;</fieldText>
-            <fieldType>DisplayText</fieldType>
-        </fields>
-        <fields>
-            <name>Option</name>
-            <fieldText>&lt;DIV ALIGN=&quot;LEFT&quot;&gt;&lt;FONT FACE=&quot;Arial&quot; STYLE=&quot;font-size:12px&quot; COLOR=&quot;#000000&quot; LETTERSPACING=&quot;0&quot; KERNING=&quot;0&quot;&gt;&lt;B&gt;&lt;U&gt;Option&lt;/U&gt;&lt;/B&gt;&lt;/FONT&gt;&lt;/DIV&gt;</fieldText>
-            <fieldType>DisplayText</fieldType>
-        </fields>
-        <fields>
-            <name>Add_to_Calendar</name>
-            <dataType>Boolean</dataType>
-            <defaultValue>
-                <booleanValue>true</booleanValue>
-            </defaultValue>
-            <fieldText>Add to Calendar?</fieldText>
-            <fieldType>InputField</fieldType>
-            <isRequired>true</isRequired>
+            <name>Approval_Section1</name>
+            <fieldType>RegionContainer</fieldType>
+            <fields>
+                <name>Approval_Section1_Column1</name>
+                <fieldType>Region</fieldType>
+                <fields>
+                    <name>Approval_Travel_Approval_Logo</name>
+                    <extensionName>flowruntime:image</extensionName>
+                    <fieldType>ComponentInstance</fieldType>
+                    <inputParameters>
+                        <name>imageName</name>
+                        <value>
+                            <stringValue>Travel_Approval_Logo</stringValue>
+                        </value>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>horizontalAlignment</name>
+                        <value>
+                            <stringValue>center</stringValue>
+                        </value>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>imageHeight</name>
+                        <value>
+                            <stringValue>75</stringValue>
+                        </value>
+                    </inputParameters>
+                    <isRequired>true</isRequired>
+                    <storeOutputAutomatically>true</storeOutputAutomatically>
+                </fields>
+                <inputParameters>
+                    <name>width</name>
+                    <value>
+                        <stringValue>2</stringValue>
+                    </value>
+                </inputParameters>
+                <isRequired>false</isRequired>
+            </fields>
+            <fields>
+                <name>Approval_Section1_Column2</name>
+                <fieldType>Region</fieldType>
+                <fields>
+                    <name>Approval_Message</name>
+                    <fieldText>&lt;p style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;color: rgb(0, 0, 0); font-size: 12px;&quot;&gt;&lt;u&gt;Travel Approval Resume&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(62, 62, 60); font-size: 12px;&quot;&gt;Travel Description: {!Description}&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(62, 62, 60); font-size: 12px;&quot;&gt;Travel Destination: {!Travel_Destination}&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(62, 62, 60); font-size: 12px;&quot;&gt;Travel Reason: {!Travel_Reason_Picklist}&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(62, 62, 60); font-size: 12px;&quot;&gt;Travel Date: {!Travel_Date}&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(62, 62, 60); font-size: 12px;&quot;&gt;Travel Cost: {!Travel_Cost}&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(62, 62, 60); font-size: 12px;&quot;&gt;Customer or Partner Name: {!CustomerOrPartnerName}&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;</fieldText>
+                    <fieldType>DisplayText</fieldType>
+                </fields>
+                <fields>
+                    <name>TravelApprover</name>
+                    <fieldText>&lt;p&gt;&lt;b style=&quot;font-size: 12px; color: rgb(0, 0, 0);&quot;&gt;&lt;u&gt;Approver Level 1&lt;/u&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 12px; color: rgb(0, 0, 0);&quot;&gt;:&lt;/span&gt;&lt;span style=&quot;font-size: 12px; color: rgb(62, 62, 60);&quot;&gt; {!ManagerUser.Name}&lt;/span&gt;&lt;/p&gt;</fieldText>
+                    <fieldType>DisplayText</fieldType>
+                </fields>
+                <fields>
+                    <name>Option</name>
+                    <fieldText>&lt;DIV ALIGN=&quot;LEFT&quot;&gt;&lt;FONT FACE=&quot;Arial&quot; STYLE=&quot;font-size:12px&quot; COLOR=&quot;#000000&quot; LETTERSPACING=&quot;0&quot; KERNING=&quot;0&quot;&gt;&lt;B&gt;&lt;U&gt;Option&lt;/U&gt;&lt;/B&gt;&lt;/FONT&gt;&lt;/DIV&gt;</fieldText>
+                    <fieldType>DisplayText</fieldType>
+                </fields>
+                <fields>
+                    <name>Add_to_Calendar</name>
+                    <dataType>Boolean</dataType>
+                    <defaultValue>
+                        <booleanValue>true</booleanValue>
+                    </defaultValue>
+                    <fieldText>Add to Calendar?</fieldText>
+                    <fieldType>InputField</fieldType>
+                    <isRequired>true</isRequired>
+                </fields>
+                <inputParameters>
+                    <name>width</name>
+                    <value>
+                        <stringValue>10</stringValue>
+                    </value>
+                </inputParameters>
+                <isRequired>false</isRequired>
+            </fields>
+            <isRequired>false</isRequired>
         </fields>
         <showFooter>true</showFooter>
         <showHeader>true</showHeader>
@@ -225,8 +277,8 @@
     <screens>
         <name>Cost</name>
         <label>Cost</label>
-        <locationX>367</locationX>
-        <locationY>119</locationY>
+        <locationX>409</locationX>
+        <locationY>236</locationY>
         <allowBack>true</allowBack>
         <allowFinish>true</allowFinish>
         <allowPause>true</allowPause>
@@ -247,12 +299,64 @@
             <storeOutputAutomatically>true</storeOutputAutomatically>
         </fields>
         <fields>
-            <name>Travel_Cost</name>
-            <dataType>Currency</dataType>
-            <fieldText>Travel Cost</fieldText>
-            <fieldType>InputField</fieldType>
-            <isRequired>true</isRequired>
-            <scale>0</scale>
+            <name>Cost_Section1</name>
+            <fieldType>RegionContainer</fieldType>
+            <fields>
+                <name>Cost_Section1_Column1</name>
+                <fieldType>Region</fieldType>
+                <fields>
+                    <name>Cost_Travel_Approval_Logo</name>
+                    <extensionName>flowruntime:image</extensionName>
+                    <fieldType>ComponentInstance</fieldType>
+                    <inputParameters>
+                        <name>imageName</name>
+                        <value>
+                            <stringValue>Travel_Approval_Logo</stringValue>
+                        </value>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>horizontalAlignment</name>
+                        <value>
+                            <stringValue>center</stringValue>
+                        </value>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>imageHeight</name>
+                        <value>
+                            <stringValue>75</stringValue>
+                        </value>
+                    </inputParameters>
+                    <isRequired>true</isRequired>
+                    <storeOutputAutomatically>true</storeOutputAutomatically>
+                </fields>
+                <inputParameters>
+                    <name>width</name>
+                    <value>
+                        <stringValue>2</stringValue>
+                    </value>
+                </inputParameters>
+                <isRequired>false</isRequired>
+            </fields>
+            <fields>
+                <name>Cost_Section1_Column2</name>
+                <fieldType>Region</fieldType>
+                <fields>
+                    <name>Travel_Cost</name>
+                    <dataType>Currency</dataType>
+                    <fieldText>Travel Cost</fieldText>
+                    <fieldType>InputField</fieldType>
+                    <isRequired>true</isRequired>
+                    <scale>0</scale>
+                </fields>
+                <inputParameters>
+                    <name>width</name>
+                    <value>
+                        <stringValue>10</stringValue>
+                    </value>
+                </inputParameters>
+                <isRequired>false</isRequired>
+            </fields>
+            <isRequired>false</isRequired>
         </fields>
         <showFooter>true</showFooter>
         <showHeader>true</showHeader>
@@ -260,8 +364,8 @@
     <screens>
         <name>General_Information</name>
         <label>General Information</label>
-        <locationX>180</locationX>
-        <locationY>118</locationY>
+        <locationX>176</locationX>
+        <locationY>236</locationY>
         <allowBack>true</allowBack>
         <allowFinish>true</allowFinish>
         <allowPause>true</allowPause>
@@ -282,86 +386,138 @@
             <storeOutputAutomatically>true</storeOutputAutomatically>
         </fields>
         <fields>
-            <name>Description</name>
-            <dataType>String</dataType>
-            <fieldText>Description</fieldText>
-            <fieldType>InputField</fieldType>
-            <isRequired>true</isRequired>
-        </fields>
-        <fields>
-            <name>Travel_Destination</name>
-            <dataType>String</dataType>
-            <fieldText>Travel Destination</fieldText>
-            <fieldType>InputField</fieldType>
-            <isRequired>true</isRequired>
-        </fields>
-        <fields>
-            <name>Travel_Date</name>
-            <dataType>Date</dataType>
-            <fieldText>Travel Date</fieldText>
-            <fieldType>InputField</fieldType>
-            <isRequired>true</isRequired>
-            <validationRule>
-                <errorMessage>&lt;p&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 12px; font-family: &amp;quot;Salesforce Sans&amp;quot;, Arial, sans-serif; color: rgb(228, 21, 6);&quot;&gt;Travel Date cannot be in the past&lt;/span&gt;&lt;/p&gt;</errorMessage>
-                <formulaExpression>{!Travel_Date} &gt;= Today()</formulaExpression>
-            </validationRule>
-        </fields>
-        <fields>
-            <name>Travel_Reason_Picklist</name>
-            <choiceReferences>Travel_Reason</choiceReferences>
-            <dataType>String</dataType>
-            <fieldText>Travel Reason</fieldText>
-            <fieldType>DropdownBox</fieldType>
-            <isRequired>true</isRequired>
-        </fields>
-        <fields>
-            <name>Customer_Partner_Name</name>
-            <extensionName>flowruntime:lookup</extensionName>
-            <fieldType>ComponentInstance</fieldType>
-            <inputParameters>
-                <name>fieldApiName</name>
-                <value>
-                    <stringValue>Customer_Partner_Name__c</stringValue>
-                </value>
-            </inputParameters>
-            <inputParameters>
-                <name>label</name>
-                <value>
-                    <stringValue>Customer/Partner Name</stringValue>
-                </value>
-            </inputParameters>
-            <inputParameters>
-                <name>objectApiName</name>
-                <value>
-                    <stringValue>Travel_Approval__c</stringValue>
-                </value>
-            </inputParameters>
-            <isRequired>true</isRequired>
-            <outputParameters>
-                <assignToReference>CustomerOrPartnerId</assignToReference>
-                <name>recordId</name>
-            </outputParameters>
-            <outputParameters>
-                <assignToReference>CustomerOrPartnerName</assignToReference>
-                <name>recordName</name>
-            </outputParameters>
-            <visibilityRule>
-                <conditionLogic>or</conditionLogic>
-                <conditions>
-                    <leftValueReference>Travel_Reason_Picklist</leftValueReference>
-                    <operator>EqualTo</operator>
-                    <rightValue>
-                        <stringValue>Customer Meeting</stringValue>
-                    </rightValue>
-                </conditions>
-                <conditions>
-                    <leftValueReference>Travel_Reason_Picklist</leftValueReference>
-                    <operator>EqualTo</operator>
-                    <rightValue>
-                        <stringValue>Partner Meeting</stringValue>
-                    </rightValue>
-                </conditions>
-            </visibilityRule>
+            <name>General_Information_Section1</name>
+            <fieldType>RegionContainer</fieldType>
+            <fields>
+                <name>General_Information_Section1_Column1</name>
+                <fieldType>Region</fieldType>
+                <fields>
+                    <name>General_Information_Travel_Approval_Logo</name>
+                    <extensionName>flowruntime:image</extensionName>
+                    <fieldType>ComponentInstance</fieldType>
+                    <inputParameters>
+                        <name>imageName</name>
+                        <value>
+                            <stringValue>Travel_Approval_Logo</stringValue>
+                        </value>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>imageHeight</name>
+                        <value>
+                            <stringValue>75</stringValue>
+                        </value>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>horizontalAlignment</name>
+                        <value>
+                            <stringValue>center</stringValue>
+                        </value>
+                    </inputParameters>
+                    <isRequired>true</isRequired>
+                    <storeOutputAutomatically>true</storeOutputAutomatically>
+                </fields>
+                <inputParameters>
+                    <name>width</name>
+                    <value>
+                        <stringValue>2</stringValue>
+                    </value>
+                </inputParameters>
+                <isRequired>false</isRequired>
+            </fields>
+            <fields>
+                <name>General_Information_Section1_Column2</name>
+                <fieldType>Region</fieldType>
+                <fields>
+                    <name>Description</name>
+                    <dataType>String</dataType>
+                    <fieldText>Description</fieldText>
+                    <fieldType>InputField</fieldType>
+                    <isRequired>true</isRequired>
+                </fields>
+                <fields>
+                    <name>Travel_Destination</name>
+                    <dataType>String</dataType>
+                    <fieldText>Travel Destination</fieldText>
+                    <fieldType>InputField</fieldType>
+                    <isRequired>true</isRequired>
+                </fields>
+                <fields>
+                    <name>Travel_Date</name>
+                    <dataType>Date</dataType>
+                    <fieldText>Travel Date</fieldText>
+                    <fieldType>InputField</fieldType>
+                    <isRequired>true</isRequired>
+                    <validationRule>
+                        <errorMessage>&lt;p&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 12px; font-family: &amp;quot;Salesforce Sans&amp;quot;, Arial, sans-serif; color: rgb(228, 21, 6);&quot;&gt;Travel Date cannot be in the past&lt;/span&gt;&lt;/p&gt;</errorMessage>
+                        <formulaExpression>{!Travel_Date} &gt;= Today()</formulaExpression>
+                    </validationRule>
+                </fields>
+                <fields>
+                    <name>Travel_Reason_Picklist</name>
+                    <choiceReferences>Travel_Reason</choiceReferences>
+                    <dataType>String</dataType>
+                    <fieldText>Travel Reason</fieldText>
+                    <fieldType>DropdownBox</fieldType>
+                    <isRequired>true</isRequired>
+                </fields>
+                <fields>
+                    <name>Customer_Partner_Name</name>
+                    <extensionName>flowruntime:lookup</extensionName>
+                    <fieldType>ComponentInstance</fieldType>
+                    <inputParameters>
+                        <name>fieldApiName</name>
+                        <value>
+                            <stringValue>Customer_Partner_Name__c</stringValue>
+                        </value>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>label</name>
+                        <value>
+                            <stringValue>Customer/Partner Name</stringValue>
+                        </value>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>objectApiName</name>
+                        <value>
+                            <stringValue>Travel_Approval__c</stringValue>
+                        </value>
+                    </inputParameters>
+                    <isRequired>true</isRequired>
+                    <outputParameters>
+                        <assignToReference>CustomerOrPartnerId</assignToReference>
+                        <name>recordId</name>
+                    </outputParameters>
+                    <outputParameters>
+                        <assignToReference>CustomerOrPartnerName</assignToReference>
+                        <name>recordName</name>
+                    </outputParameters>
+                    <visibilityRule>
+                        <conditionLogic>or</conditionLogic>
+                        <conditions>
+                            <leftValueReference>Travel_Reason_Picklist</leftValueReference>
+                            <operator>EqualTo</operator>
+                            <rightValue>
+                                <stringValue>Customer Meeting</stringValue>
+                            </rightValue>
+                        </conditions>
+                        <conditions>
+                            <leftValueReference>Travel_Reason_Picklist</leftValueReference>
+                            <operator>EqualTo</operator>
+                            <rightValue>
+                                <stringValue>Partner Meeting</stringValue>
+                            </rightValue>
+                        </conditions>
+                    </visibilityRule>
+                </fields>
+                <inputParameters>
+                    <name>width</name>
+                    <value>
+                        <stringValue>10</stringValue>
+                    </value>
+                </inputParameters>
+                <isRequired>false</isRequired>
+            </fields>
+            <isRequired>false</isRequired>
         </fields>
         <showFooter>true</showFooter>
         <showHeader>true</showHeader>
