@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Flow xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-    <apiVersion>49.0</apiVersion>
+    <apiVersion>52.0</apiVersion>
     <decisions>
         <name>Add_to_Calendar_Decision</name>
         <label>Add to Calendar?</label>
@@ -457,7 +457,7 @@
                     <choiceReferences>Travel_Reason</choiceReferences>
                     <dataType>String</dataType>
                     <fieldText>Travel Reason</fieldText>
-                    <fieldType>DropdownBox</fieldType>
+                    <fieldType>RadioButtons</fieldType>
                     <isRequired>true</isRequired>
                 </fields>
                 <fields>
