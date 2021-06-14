@@ -24,6 +24,18 @@
                     <name>Approval_Message</name>
                 </fields>
                 <fields>
+                    <name>Approval_Section1</name>
+                </fields>
+                <fields>
+                    <name>Approval_Section1_Column1</name>
+                </fields>
+                <fields>
+                    <name>Approval_Section1_Column2</name>
+                </fields>
+                <fields>
+                    <name>Approval_Travel_Approval_Logo</name>
+                </fields>
+                <fields>
                     <name>Option</name>
                 </fields>
                 <fields>
@@ -35,6 +47,18 @@
                 <name>Approval</name>
             </screens>
             <screens>
+                <fields>
+                    <name>Cost_Section1</name>
+                </fields>
+                <fields>
+                    <name>Cost_Section1_Column1</name>
+                </fields>
+                <fields>
+                    <name>Cost_Section1_Column2</name>
+                </fields>
+                <fields>
+                    <name>Cost_Travel_Approval_Logo</name>
+                </fields>
                 <fields>
                     <name>TravelApprovalPathLWC1</name>
                 </fields>
@@ -52,11 +76,24 @@
                     <name>Description</name>
                 </fields>
                 <fields>
+                    <name>General_Information_Section1</name>
+                </fields>
+                <fields>
+                    <name>General_Information_Section1_Column1</name>
+                </fields>
+                <fields>
+                    <name>General_Information_Section1_Column2</name>
+                </fields>
+                <fields>
+                    <name>General_Information_Travel_Approval_Logo</name>
+                </fields>
+                <fields>
                     <name>TravelApprovalPathLWC0</name>
                 </fields>
                 <fields>
                     <fieldText>Date du voyage</fieldText>
                     <name>Travel_Date</name>
+                    <validationRule/>
                 </fields>
                 <fields>
                     <fieldText>Destination</fieldText>
